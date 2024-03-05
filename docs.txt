@@ -1,6 +1,6 @@
 https://www.youtube.com/watch?v=p7V4Aa7qEpw&t=120s
 
-1h42min
+1h20min
 
 $ conda create -n text_sum_env python=3.8 -y
 $ conda activate text_sum_env
