@@ -1,5 +1,19 @@
-$ python template.py
-
 https://www.youtube.com/watch?v=p7V4Aa7qEpw&t=120s
 
 1h42min
+
+$ conda create -n text_sum_env python=3.8 -y
+$ conda activate text_sum_env
+
+# create template.py and code it accordingly
+
+# run the following to create project structure: 
+$ python template.py
+
+$ create requirements.txt
+the list line is:
+-e .
+it runs setup.py after the installation of the packages listed in requirements.txt
+
+$ pip install -r requirements.txt
+
