@@ -2,6 +2,9 @@ https://www.youtube.com/watch?v=p7V4Aa7qEpw&t=120s
 
 1h20min
 
+Google collab:
+https://colab.research.google.com/drive/1l7pSHvJraRGV9j1wt9VBhuagPyb-qL9I#scrollTo=JcUxT5DcDTqv
+
 $ conda create -n text_sum_env python=3.8 -y
 $ conda activate text_sum_env
 
